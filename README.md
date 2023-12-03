@@ -1,5 +1,8 @@
 # Decentralized DIDComm PoC
 
+![Screenshot (423)](https://github.com/Prasannaverse13/Decentralized-DIDComm-PoC./assets/116105281/852ffceb-54d1-40e5-828d-47ebe6ccc2f9)
+
+
 # Project Description:
 
 The "Decentralized DIDComm PoC" is a Proof of Concept (PoC) implementation that explores the decentralized capabilities of the Decentralized Identifiers (DIDs) and the DID Communication (DIDComm) protocol. The project aims to showcase the potential of decentralized identity management and secure communication in a distributed network.
