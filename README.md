@@ -101,7 +101,3 @@ npm run lint
 # pnpm
 pnpm lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://vitejs.dev/config/).
